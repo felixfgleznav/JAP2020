@@ -1,2 +1,2 @@
-# JAP2020
+# MLLTIO22020
 Machine learning for predicting the average length of vertically aligned TiO2 nanotubes. Data repository
